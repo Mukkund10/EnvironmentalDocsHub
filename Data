@@ -1,0 +1,9 @@
+The "Data" folder is designed for storing raw data, datasets and any information used in the generation of environmental reports.
+
+Organise the data into subfolders based on the type of data or project.
+
+For Clarity, consider including a data dictioary or metadata file that explains the structure and meaning of the datasets.
+
+This approach facilitates data transparency, allowing others to replicate analyses and draw insights from the provided information.
+
+You may also include scripts or notebooks used for data processing and analysis in relevant subfolders.
