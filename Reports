@@ -1,0 +1,9 @@
+The "Reports" folder is intended for storing comprehensive documents that detail environmental assessments, impact studies and research findings. 
+
+Each report should be oraganised in a subfolder named according to the specific project, location or topic.
+
+Within these subfolders, include the actual reports in a readable format such as PDF or markdown.
+
+Additionally, consider adding a README file in each subfolder to provide a summary or index of the contained reports.
+
+This organisation ensures that stakeholders can easily locate and access relevant environmental reports.
