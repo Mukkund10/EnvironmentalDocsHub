@@ -1,0 +1,7 @@
+The "Code" folder is meant for storing any scripts, algorithms or code used in the analysis, processing or generation of environmental data and reports.
+
+Organise the code into subfilders based on the programming language or project.
+
+Include README files in each subfolder explaining the purpose of the code, dependencies and instructions for usage.
+
+This allows others to understand and potentially contribute to the codebase, promoting transparency and collaboration in the development and maintenance of environmental analysis tools.
